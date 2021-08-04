@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Docking Undocking",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Docking Undocking",
+		"liveServer.settings.port": 5501
+	}
+}
